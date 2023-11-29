@@ -1,0 +1,416 @@
+Uri: https://educom-mobile.netlify.app/
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\index.htm
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/about
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\about.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/accordion
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\accordion.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/all-teachers
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\all-teachers.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/blank
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\blank.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/checkbox-list
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\checkbox-list.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/contact
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\contact.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/css/animate.css
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\css\animate.css
+Content Type: text/css
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/css/global.style.css
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\css\global.style.css
+Content Type: text/css
+
+Uri: https://educom-mobile.netlify.app/Mobile-Temp/css/intro.css
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\Mobile-Temp\css\intro.css
+Content Type: text/css
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/fonts/fontawesome-webfont3e6e3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\fonts\fontawesome-webfont3e6e3e6e.eot
+Content Type: application/octet-stream
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/fonts/fontawesome-webfont3e6e3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\fonts\fontawesome-webfont3e6e3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/fonts/fontawesome-webfont3e6e3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\fonts\fontawesome-webfont3e6e3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/fonts/fontawesome-webfont3e6e3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\fonts\fontawesome-webfont3e6e3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/fonts/fontawesome-webfont3e6e3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\fonts\fontawesome-webfont3e6e3e6e.woff
+Content Type: application/font-woff
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/fonts/fontawesome-webfontd41dd41d.eot?
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\fonts\fontawesome-webfontd41dd41d.eot
+Content Type: application/octet-stream
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/forgot-password
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\forgot-password.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/forms
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\forms.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/assets/about.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\assets\about.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/assets/news-list-image-1.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\assets\news-list-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/assets/news-list-image-2.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\assets\news-list-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/assets/news-list-image-3.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\assets\news-list-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/assets/post-img-1.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\assets\post-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/assets/post-img-2.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\assets\post-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/avatar-bg.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\avatar-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/avatar.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\avatar.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/banner.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\banner.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/i1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\i1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/icon1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\icon1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/icon2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\icon2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/icon3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\icon3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/s1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\s1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/s2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\s2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/s3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\s3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/s4.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\s4.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/t1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\t1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/t2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\t2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/t3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\t3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/why1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\why1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/why2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\why2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/icons/why3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\icons\why3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/Mobile-Temp/img/intro.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\Mobile-Temp\img\intro.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/logo.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\logo.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/con1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\con1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/con2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\con2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/con3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\con3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/con4.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\con4.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course4.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course4.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course5.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course5.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course6.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course6.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course7.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course7.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course8.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course8.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/course9.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\course9.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/inst-img.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\inst-img.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/inst1.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\inst1.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/inst2.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\inst2.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/inst3.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\inst3.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/p6.jpg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\p6.jpg
+Content Type: image/jpeg
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/product/student-img.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\product\student-img.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/splash-screen.png
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\splash-screen.png
+Content Type: image/png
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/img/up-down.svg
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\img\up-down.svg
+Content Type: image/svg+xml
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/js/check-ini.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\js\check-ini.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/js/global.script.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\js\global.script.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/js/swiper-ini.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\js\swiper-ini.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/js/turbo-ini.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\js\turbo-ini.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/link-list
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\link-list.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/link-list-two-column
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\link-list-two-column.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/login
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\login.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/main
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\main.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/plugins/turbo-slider/turbo.css
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\plugins\turbo-slider\turbo.css
+Content Type: text/css
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/plugins/turbo-slider/turbo.min.js
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\plugins\turbo-slider\turbo.min.js
+Content Type: application/javascript
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/popup
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\popup.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/post-author
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\post-author.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/post-detail
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\post-detail.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/post-list-1
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\post-list-1.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/post-list-2
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\post-list-2.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/product-basket
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\product-basket.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/product-detail
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\product-detail.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/product-list
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\product-list.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/product-list-2
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\product-list-2.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/search-popup
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\search-popup.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/search-result
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\search-result.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/signup
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\signup.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/student-profile
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\student-profile.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/tab-bottom
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\tab-bottom.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/tab-top
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\tab-top.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/teacher-profile
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\teacher-profile.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/wizard-default
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\wizard-default.html
+Content Type: text/html
+
+Uri: https://educom-mobile.netlify.app/mobile-temp/wizard-fullscreen
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\mobile-temp\wizard-fullscreen.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,900
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,600,700,900
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\educom-mobile.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
